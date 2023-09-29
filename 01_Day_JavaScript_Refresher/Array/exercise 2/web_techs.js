@@ -6,6 +6,7 @@ const webTechs = [
     'Redux',
     'Node',
     'MongoDB',
+    'Sass',
   ]
   
   export { webTechs };
